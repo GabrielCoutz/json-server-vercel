@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": "ec745b1a-f66b-11ed-b67e-0242ac120002",
+      "title": "info-card-trail-title",
+      "text": "info-card-trail-text",
+      "iconSrc": "/icons/trails.png"
+    },
+    {
+      "id": "090d697e-f66c-11ed-b67e-0242ac120002",
+      "title": "info-card-playlists-title",
+      "text": "info-card-playlists-text",
+      "iconSrc": "/icons/playlists.png"
+    },
+    {
+      "id": "1701cb7e-f66c-11ed-b67e-0242ac120002",
+      "title": "info-card-colections-title",
+      "text": "info-card-colections-text",
+      "iconSrc": "/icons/folder.png"
+    }
+  ]
+}
